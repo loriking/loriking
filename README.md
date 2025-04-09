@@ -19,7 +19,7 @@ Aspiring DevOps Engineer | Cloud Enthusiast | Automation Fanatic
 | AZ-900                               | ✅          | January 2022   |
 | DP-900                               | ✅          | September 2022  |
 | AI-900                               | ✅          | September 2022|
-| CKA                                  | 🔄 In Progress | April 2025 |
-| LFCS                                 | 🔄 In Progress | May 2025 |
-| AWS DevOps Professional             | 🔄 In Progress | May 2025 |
+| CKA                                  | 🔄 In Progress |  2025 |
+| LFCS                                 | 🔄 In Progress |  2025 |
+| AWS DevOps Professional             | 🔄 In Progress |  2025 |
 
