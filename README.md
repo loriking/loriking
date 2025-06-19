@@ -1,7 +1,7 @@
  # DevOps Journey 🚀
 
 ## Hi, I'm Lori 👋
-Aspiring DevOps Engineer | Cloud Enthusiast | Automation Fanatic
+Aspiring DevOps Engineer | Cloud Enthusiast |
 
 ### About Me
 - 🌐 DevOps Enthusiast with a passion for cloud-native technologies
