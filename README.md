@@ -9,17 +9,4 @@ Aspiring DevOps Engineer | Cloud Enthusiast |
 - 🎯 Currently preparing for CKA, LFCS, and AWS DevOps Professional
 - 🔧 Skills: AWS, Kubernetes, Docker, Terraform, CI/CD, Linux
 
-### Certifications
-| Certification                         | Status       | Date       |
-|---------------------------------------|-------------|-----------|
-| CKAD                                 | ✅          | December 2024    |
-| AWS Certified AI Practitioner        | ✅          | September 2024 |
-| AWS Solutions Architect Associate    | ✅          | February 2023   |
-| AWS Certified Developer Associate    | ✅          | June 2022    |
-| AZ-900                               | ✅          | January 2022   |
-| DP-900                               | ✅          | September 2022  |
-| AI-900                               | ✅          | September 2022|
-| CKA                                  | 🔄 In Progress |  2025 |
-| LFCS                                 | 🔄 In Progress |  2025 |
-| AWS DevOps Professional             | 🔄 In Progress |  2025 |
 
